@@ -23,6 +23,13 @@
     ![Alt text](Images/printnumber.png)
 
 
-- (3)  *Command Subnstitution* 
+- (3)  *Command Substitution* Example is a script to capture curent date and use same as value . 
 
+  ![Alt text](Images/curentdate.png)
+
+  Result is 
+
+  ![Alt text](Images/resultDate.png)
+
+  
 
